@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "jeangm16",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^7.0.1",
@@ -15,10 +15,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s88leigh/Employee-Tracker.git"
+    "url": "git+https://github.com/jeangm16/emloyeeTracker.git"
   },
   "bugs": {
-    "url": "https://github.com/s88leigh/Employee-Tracker/issues"
+    "url": "https://github.com/jeangm16/EmloyeeTracker/issues"
   },
-  "homepage": "https://github.com/s88leigh/Employee-Tracker#readme"
+  "homepage": "https://github.com/jeangm16/emloyeeTracker#readme"
 }
