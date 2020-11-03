@@ -7,7 +7,7 @@ const viewOptions = [
     "Update Employee",
     "exit"
 ];
-
+//employee last names and first names
 const employeeOptions = [
     "John Stamos",
     "Mary Walters",
